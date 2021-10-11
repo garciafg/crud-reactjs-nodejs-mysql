@@ -1,5 +1,5 @@
 # Crud - Reactjs/Nodejs com autenticação JWT 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/garciafg/template-estilo-blog-flex-bootstrap5/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/garciafg/crud-reactjs-nodejs-mysql/blob/main/LICENSE)
 
 # Sobre o projeto
 
