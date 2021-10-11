@@ -1,24 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
 
+import React from 'react';
+import Header from './components/Header';
+import GlobalStyles from './assets/styles/GlobalStyles';
+import Routes from './routes/';
+import { Router } from 'react-router-dom'
+import history from './services/history';
+import Footer from './components/footer';
+import { AuthProvider } from './Context/AuthContext';
+import { ToastContainer } from 'react-toastify';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+
+    <>
+      <AuthProvider>
+        <Router history={history}>
+            <Header/>
+            <Routes />
+            <Footer/>
+          <GlobalStyles/>
+          <ToastContainer autoClose={3000} className="toast-container" />
+        </Router>
+      </AuthProvider>
+    </>
+
   );
 }
 
