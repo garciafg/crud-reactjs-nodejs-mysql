@@ -5,7 +5,7 @@
 
 https://fgdevon.tk/projetos/blog/
 
-Sistema baseado em um blog, usando Reactjs (Hooks = useState; useEffect; useContext e useRef ) com Bootstrap 5 no Front-End e Nodejs com Mysql no Banck-End. [Demostração online](https://fgdevon.tk/projetos/blog "Demostração").
+Sistema baseado em um blog, usando Reactjs (Hooks = useState; useEffect; useContext e useRef ) com Bootstrap 5 no Front-End e Nodejs com Mysql no Banck-End.
 
 
 ## Front-end
