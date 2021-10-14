@@ -31,7 +31,7 @@ Sistema baseado em um blog, usando Reactjs (Hooks = useState; useEffect; useCont
 - Axios
 - Reactjs
 - Nodejs
-- Mysql
+- MySql
 
 
 # Autor
