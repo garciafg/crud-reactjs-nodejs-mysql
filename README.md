@@ -1,5 +1,5 @@
 # Crud - Reactjs/Nodejs com autenticação JWT 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/garciafg/crud-reactjs-nodejs-mysql/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/garciafg/crud-reactjs-nodejs-mysql/blob/main/LICENSE)
 
 # Sobre o projeto
 
@@ -38,4 +38,5 @@ Sistema baseado em um blog, usando Reactjs (Hooks = useState; useEffect; useCont
 
 Fábio Garcia
 
-garciafg@gmail.com - garciafg@yahoo.com
+garciafg@gmail.com -garciafg@yahoo.com
+https://www.linkedin.com/in/f%C3%A1bio-garcia-9113b9222
