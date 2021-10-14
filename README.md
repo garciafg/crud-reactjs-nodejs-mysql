@@ -38,5 +38,5 @@ Sistema baseado em um blog, usando Reactjs (Hooks = useState; useEffect; useCont
 
 Fábio Garcia
 
-garciafg@gmail.com -garciafg@yahoo.com
+garciafg@gmail.com - garciafg@yahoo.com
 LinkDin: https://www.linkedin.com/in/f%C3%A1bio-garcia-9113b9222
